@@ -1,0 +1,1913 @@
+{
+  "analyses": [
+    {
+      "_id": "local_1793955569261_vkqs42",
+      "title": "Cloud DevOps & SRE Engineer",
+      "company": "CloudNative Solutions",
+      "jobDescription": "About the Role:\nJoin our Infrastructure & Reliability Engineering team to build modern cloud foundations and automated deployment pipelines supporting 99.99% uptime.\n\nResponsibilities:\n- Manage multi-region cloud infrastructure on AWS and Google Cloud Platform (GCP) using Terraform (Infrastructure as Code).\n- Architect, monitor, and scale Kubernetes clusters with Helm and ArgoCD.\n- Build automated CI/CD Pipelines using GitHub Actions and Jenkins for automated linting, security scanning, and deployments.\n- Manage observability, distributed tracing, and alerting stacks with Prometheus / Grafana and Datadog.\n- Configure Nginx reverse proxies, ingress controllers, and network security policies.\n- Automate operational tasks and serverless workers using Go, Python, and Linux bash scripting.\n\nRequired Qualifications:\n- 3+ years experience in a DevOps, SRE, or Cloud Infrastructure role.\n- Strong knowledge of Docker, Kubernetes, Linux, and Git version control.\n- Proven experience with Terraform and AWS or GCP.\n- Familiarity with CI/CD Pipelines and automated testing workflows.\n- Strong analytical and problem solving mindset with Agile / Scrum experience.",
+      "studentName": "Alex Rivera",
+      "extractedSkills": [
+        {
+          "name": "Google Cloud Platform (GCP)",
+          "category": "DevOps & Cloud",
+          "frequency": 4,
+          "requiredLevel": "Advanced",
+          "importance": "Critical"
+        },
+        {
+          "name": "CI/CD Pipelines",
+          "category": "DevOps & Cloud",
+          "frequency": 4,
+          "requiredLevel": "Intermediate",
+          "importance": "Critical"
+        },
+        {
+          "name": "Prometheus / Grafana",
+          "category": "DevOps & Cloud",
+          "frequency": 4,
+          "requiredLevel": "Intermediate",
+          "importance": "Critical"
+        },
+        {
+          "name": "Kubernetes",
+          "category": "DevOps & Cloud",
+          "frequency": 3,
+          "requiredLevel": "Advanced",
+          "importance": "Critical"
+        },
+        {
+          "name": "Terraform",
+          "category": "DevOps & Cloud",
+          "frequency": 3,
+          "requiredLevel": "Advanced",
+          "importance": "Critical"
+        },
+        {
+          "name": "Git",
+          "category": "DevOps & Tools",
+          "frequency": 3,
+          "requiredLevel": "Intermediate",
+          "importance": "Critical"
+        },
+        {
+          "name": "Linux",
+          "category": "DevOps & Tools",
+          "frequency": 3,
+          "requiredLevel": "Intermediate",
+          "importance": "Critical"
+        },
+        {
+          "name": "Python",
+          "category": "Programming Languages",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "Critical"
+        },
+        {
+          "name": "AWS",
+          "category": "DevOps & Cloud",
+          "frequency": 2,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "Agile / Scrum",
+          "category": "Methodology",
+          "frequency": 2,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "Docker",
+          "category": "DevOps & Cloud",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "Problem Solving",
+          "category": "Soft Skills",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "Go",
+          "category": "Programming Languages",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "Medium"
+        },
+        {
+          "name": "Nginx",
+          "category": "DevOps & Cloud",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "Medium"
+        }
+      ],
+      "studentSkills": [
+        {
+          "name": "JavaScript",
+          "level": "Intermediate",
+          "category": "Frontend",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "React",
+          "level": "Intermediate",
+          "category": "Frontend",
+          "yearsOfExperience": 1.5
+        },
+        {
+          "name": "HTML5",
+          "level": "Advanced",
+          "category": "Frontend",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "CSS3",
+          "level": "Advanced",
+          "category": "Frontend",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Node.js",
+          "level": "Beginner",
+          "category": "Backend",
+          "yearsOfExperience": 0.5
+        },
+        {
+          "name": "Git",
+          "level": "Intermediate",
+          "category": "DevOps & Tools",
+          "yearsOfExperience": 2
+        }
+      ],
+      "matchScore": 9,
+      "readinessLevel": "Significant Skill Gap (Structured Learning Needed)",
+      "breakdown": {
+        "matching": [
+          {
+            "name": "Git",
+            "category": "DevOps & Tools",
+            "studentLevel": "Intermediate",
+            "requiredLevel": "Intermediate",
+            "importance": "Critical"
+          }
+        ],
+        "weak": [],
+        "missing": [
+          {
+            "name": "Google Cloud Platform (GCP)",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Advanced",
+            "importance": "Critical",
+            "frequency": 4
+          },
+          {
+            "name": "CI/CD Pipelines",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Intermediate",
+            "importance": "Critical",
+            "frequency": 4
+          },
+          {
+            "name": "Prometheus / Grafana",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Intermediate",
+            "importance": "Critical",
+            "frequency": 4
+          },
+          {
+            "name": "Kubernetes",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Advanced",
+            "importance": "Critical",
+            "frequency": 3
+          },
+          {
+            "name": "Terraform",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Advanced",
+            "importance": "Critical",
+            "frequency": 3
+          },
+          {
+            "name": "Linux",
+            "category": "DevOps & Tools",
+            "requiredLevel": "Intermediate",
+            "importance": "Critical",
+            "frequency": 3
+          },
+          {
+            "name": "Python",
+            "category": "Programming Languages",
+            "requiredLevel": "Intermediate",
+            "importance": "Critical",
+            "frequency": 1
+          },
+          {
+            "name": "AWS",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "Agile / Scrum",
+            "category": "Methodology",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "Docker",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 1
+          },
+          {
+            "name": "Problem Solving",
+            "category": "Soft Skills",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 1
+          },
+          {
+            "name": "Go",
+            "category": "Programming Languages",
+            "requiredLevel": "Intermediate",
+            "importance": "Medium",
+            "frequency": 1
+          },
+          {
+            "name": "Nginx",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Intermediate",
+            "importance": "Medium",
+            "frequency": 1
+          }
+        ]
+      },
+      "categoryStats": {
+        "DevOps & Cloud": {
+          "totalRequired": 8,
+          "matched": 0,
+          "percentage": 0
+        },
+        "DevOps & Tools": {
+          "totalRequired": 2,
+          "matched": 1,
+          "percentage": 50
+        },
+        "Programming Languages": {
+          "totalRequired": 2,
+          "matched": 0,
+          "percentage": 0
+        },
+        "Methodology": {
+          "totalRequired": 1,
+          "matched": 0,
+          "percentage": 0
+        },
+        "Soft Skills": {
+          "totalRequired": 1,
+          "matched": 0,
+          "percentage": 0
+        }
+      },
+      "createdAt": "2026-11-06T08:59:29.261Z",
+      "updatedAt": "2026-11-06T08:59:29.261Z"
+    },
+    {
+      "_id": "local_1793774948992_kh9epw",
+      "title": "Senior Full Stack Engineer",
+      "company": "Stripe",
+      "jobDescription": "About the Role:\nWe are looking for a Senior Full Stack Engineer to join our Core Platform team. In this role, you will architect, build, and scale high-throughput web applications and financial APIs that power global commerce.\n\nKey Responsibilities:\n- Design and develop performant, accessible web user interfaces using React, Next.js, and TypeScript.\n- Architect and maintain resilient backend services and RESTful APIs using Node.js, Express.js, and TypeScript.\n- Design database schemas and write optimized queries for PostgreSQL and MongoDB.\n- Build event-driven microservices using Redis and Apache Kafka for asynchronous transaction processing.\n- Containerize services with Docker and deploy to AWS using Kubernetes (EKS) and CI/CD Pipelines.\n- Champion code quality, unit testing with Jest / Vitest, and end-to-end testing with Cypress or Playwright.\n- Collaborate closely with Product Managers and Designers in an Agile / Scrum environment.\n\nRequirements:\n- 4+ years of professional full-stack software development experience.\n- Deep expertise in JavaScript, TypeScript, React, and Node.js.\n- Strong proficiency with relational databases (PostgreSQL) and NoSQL (MongoDB).\n- Hands-on experience with Docker containerization and AWS cloud infrastructure.\n- Solid understanding of Web Security (OWASP), OAuth / JWT authentication, and System Design principles.\n- Strong problem solving and communication skills.",
+      "studentName": "Alex Rivera",
+      "extractedSkills": [
+        {
+          "name": "JavaScript",
+          "category": "Programming Languages",
+          "frequency": 5,
+          "requiredLevel": "Advanced",
+          "importance": "Critical"
+        },
+        {
+          "name": "Node.js",
+          "category": "Backend",
+          "frequency": 4,
+          "requiredLevel": "Advanced",
+          "importance": "Critical"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Programming Languages",
+          "frequency": 3,
+          "requiredLevel": "Advanced",
+          "importance": "Critical"
+        },
+        {
+          "name": "Docker",
+          "category": "DevOps & Cloud",
+          "frequency": 3,
+          "requiredLevel": "Intermediate",
+          "importance": "Critical"
+        },
+        {
+          "name": "OAuth / JWT",
+          "category": "Security",
+          "frequency": 3,
+          "requiredLevel": "Beginner",
+          "importance": "Critical"
+        },
+        {
+          "name": "React",
+          "category": "Frontend",
+          "frequency": 2,
+          "requiredLevel": "Advanced",
+          "importance": "High"
+        },
+        {
+          "name": "Next.js",
+          "category": "Frontend",
+          "frequency": 2,
+          "requiredLevel": "Advanced",
+          "importance": "High"
+        },
+        {
+          "name": "Express.js",
+          "category": "Backend",
+          "frequency": 2,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "RESTful APIs",
+          "category": "Backend",
+          "frequency": 2,
+          "requiredLevel": "Advanced",
+          "importance": "High"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "Database",
+          "frequency": 2,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "MongoDB",
+          "category": "Database",
+          "frequency": 2,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "AWS",
+          "category": "DevOps & Cloud",
+          "frequency": 2,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "Apache Kafka",
+          "category": "Data & AI",
+          "frequency": 2,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "Jest / Vitest",
+          "category": "Testing",
+          "frequency": 2,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "Cypress / Playwright",
+          "category": "Testing",
+          "frequency": 2,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "Web Security (OWASP)",
+          "category": "Security",
+          "frequency": 2,
+          "requiredLevel": "Beginner",
+          "importance": "High"
+        },
+        {
+          "name": "Agile / Scrum",
+          "category": "Methodology",
+          "frequency": 2,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "System Design",
+          "category": "Architecture",
+          "frequency": 1,
+          "requiredLevel": "Beginner",
+          "importance": "High"
+        },
+        {
+          "name": "Problem Solving",
+          "category": "Soft Skills",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "Team Collaboration",
+          "category": "Soft Skills",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "High"
+        },
+        {
+          "name": "Microservices",
+          "category": "Architecture",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "Medium"
+        },
+        {
+          "name": "Redis",
+          "category": "Database",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "Medium"
+        },
+        {
+          "name": "Kubernetes",
+          "category": "DevOps & Cloud",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "Medium"
+        },
+        {
+          "name": "CI/CD Pipelines",
+          "category": "DevOps & Cloud",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "Medium"
+        },
+        {
+          "name": "Unit Testing",
+          "category": "Testing",
+          "frequency": 1,
+          "requiredLevel": "Intermediate",
+          "importance": "Medium"
+        }
+      ],
+      "studentSkills": [
+        {
+          "name": "JavaScript",
+          "level": "Advanced",
+          "category": "Frontend"
+        },
+        {
+          "name": "React",
+          "level": "Intermediate",
+          "category": "Frontend"
+        },
+        {
+          "name": "HTML5",
+          "level": "Advanced",
+          "category": "Frontend"
+        },
+        {
+          "name": "CSS3",
+          "level": "Advanced",
+          "category": "Frontend"
+        },
+        {
+          "name": "Git",
+          "level": "Intermediate",
+          "category": "DevOps & Tools"
+        }
+      ],
+      "matchScore": 8,
+      "readinessLevel": "Significant Skill Gap (Structured Learning Needed)",
+      "breakdown": {
+        "matching": [
+          {
+            "name": "JavaScript",
+            "category": "Programming Languages",
+            "studentLevel": "Advanced",
+            "requiredLevel": "Advanced",
+            "importance": "Critical"
+          }
+        ],
+        "weak": [
+          {
+            "name": "React",
+            "category": "Frontend",
+            "studentLevel": "Intermediate",
+            "requiredLevel": "Advanced",
+            "gap": "Intermediate → Advanced",
+            "importance": "High"
+          }
+        ],
+        "missing": [
+          {
+            "name": "Node.js",
+            "category": "Backend",
+            "requiredLevel": "Advanced",
+            "importance": "Critical",
+            "frequency": 4
+          },
+          {
+            "name": "TypeScript",
+            "category": "Programming Languages",
+            "requiredLevel": "Advanced",
+            "importance": "Critical",
+            "frequency": 3
+          },
+          {
+            "name": "Docker",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Intermediate",
+            "importance": "Critical",
+            "frequency": 3
+          },
+          {
+            "name": "OAuth / JWT",
+            "category": "Security",
+            "requiredLevel": "Beginner",
+            "importance": "Critical",
+            "frequency": 3
+          },
+          {
+            "name": "Next.js",
+            "category": "Frontend",
+            "requiredLevel": "Advanced",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "Express.js",
+            "category": "Backend",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "RESTful APIs",
+            "category": "Backend",
+            "requiredLevel": "Advanced",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "PostgreSQL",
+            "category": "Database",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "MongoDB",
+            "category": "Database",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "AWS",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "Apache Kafka",
+            "category": "Data & AI",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "Jest / Vitest",
+            "category": "Testing",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "Cypress / Playwright",
+            "category": "Testing",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "Web Security (OWASP)",
+            "category": "Security",
+            "requiredLevel": "Beginner",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "Agile / Scrum",
+            "category": "Methodology",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 2
+          },
+          {
+            "name": "System Design",
+            "category": "Architecture",
+            "requiredLevel": "Beginner",
+            "importance": "High",
+            "frequency": 1
+          },
+          {
+            "name": "Problem Solving",
+            "category": "Soft Skills",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 1
+          },
+          {
+            "name": "Team Collaboration",
+            "category": "Soft Skills",
+            "requiredLevel": "Intermediate",
+            "importance": "High",
+            "frequency": 1
+          },
+          {
+            "name": "Microservices",
+            "category": "Architecture",
+            "requiredLevel": "Intermediate",
+            "importance": "Medium",
+            "frequency": 1
+          },
+          {
+            "name": "Redis",
+            "category": "Database",
+            "requiredLevel": "Intermediate",
+            "importance": "Medium",
+            "frequency": 1
+          },
+          {
+            "name": "Kubernetes",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Intermediate",
+            "importance": "Medium",
+            "frequency": 1
+          },
+          {
+            "name": "CI/CD Pipelines",
+            "category": "DevOps & Cloud",
+            "requiredLevel": "Intermediate",
+            "importance": "Medium",
+            "frequency": 1
+          },
+          {
+            "name": "Unit Testing",
+            "category": "Testing",
+            "requiredLevel": "Intermediate",
+            "importance": "Medium",
+            "frequency": 1
+          }
+        ]
+      },
+      "categoryStats": {
+        "Programming Languages": {
+          "totalRequired": 2,
+          "matched": 1,
+          "percentage": 50
+        },
+        "Backend": {
+          "totalRequired": 3,
+          "matched": 0,
+          "percentage": 0
+        },
+        "DevOps & Cloud": {
+          "totalRequired": 4,
+          "matched": 0,
+          "percentage": 0
+        },
+        "Security": {
+          "totalRequired": 2,
+          "matched": 0,
+          "percentage": 0
+        },
+        "Frontend": {
+          "totalRequired": 2,
+          "matched": 0.6,
+          "percentage": 28
+        },
+        "Database": {
+          "totalRequired": 3,
+          "matched": 0,
+          "percentage": 0
+        },
+        "Data & AI": {
+          "totalRequired": 1,
+          "matched": 0,
+          "percentage": 0
+        },
+        "Testing": {
+          "totalRequired": 3,
+          "matched": 0,
+          "percentage": 0
+        },
+        "Methodology": {
+          "totalRequired": 1,
+          "matched": 0,
+          "percentage": 0
+        },
+        "Architecture": {
+          "totalRequired": 2,
+          "matched": 0,
+          "percentage": 0
+        },
+        "Soft Skills": {
+          "totalRequired": 2,
+          "matched": 0,
+          "percentage": 0
+        }
+      },
+      "createdAt": "2026-11-04T06:49:08.992Z",
+      "updatedAt": "2026-11-04T06:49:08.992Z"
+    }
+  ],
+  "profiles": [
+    {
+      "_id": "prof_default",
+      "studentName": "Alex Rivera",
+      "email": "alex.rivera@example.com",
+      "targetRole": "Full Stack Engineer",
+      "skills": [
+        {
+          "name": "JavaScript",
+          "level": "Intermediate",
+          "category": "Frontend",
+          "yearsOfExperience": 2
+        },
+        {
+          "name": "React",
+          "level": "Intermediate",
+          "category": "Frontend",
+          "yearsOfExperience": 1.5
+        },
+        {
+          "name": "HTML5",
+          "level": "Advanced",
+          "category": "Frontend",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "CSS3",
+          "level": "Advanced",
+          "category": "Frontend",
+          "yearsOfExperience": 3
+        },
+        {
+          "name": "Node.js",
+          "level": "Beginner",
+          "category": "Backend",
+          "yearsOfExperience": 0.5
+        },
+        {
+          "name": "Git",
+          "level": "Intermediate",
+          "category": "DevOps & Tools",
+          "yearsOfExperience": 2
+        }
+      ],
+      "createdAt": "2026-11-06T08:59:09.944Z",
+      "updatedAt": "2026-11-06T08:59:09.944Z"
+    }
+  ],
+  "plans": [
+    {
+      "_id": "plan_1793955569270_5tf8g6",
+      "analysisId": "local_1793955569261_vkqs42",
+      "title": "Cloud DevOps & SRE Engineer - Learning Roadmap",
+      "targetRole": "Cloud DevOps & SRE Engineer",
+      "studentName": "Alex Rivera",
+      "items": [
+        {
+          "skillName": "Kubernetes",
+          "category": "DevOps & Cloud",
+          "priority": "Critical",
+          "status": "to_learn",
+          "estimatedHours": 28,
+          "difficulty": "Advanced",
+          "currentLevel": "None",
+          "targetLevel": "Advanced",
+          "whyImportant": "Required by job listing (Critical priority, mentioned 3x)",
+          "actionSteps": [
+            "Understand Pods, Deployments, Services, and Ingress",
+            "Set up local cluster using Minikube or Kind",
+            "Manage ConfigMaps, Secrets, and Persistent Volumes",
+            "Deploy a resilient microservice architecture with Helm charts"
+          ],
+          "resources": [
+            {
+              "title": "Kubernetes Official Interactive Tutorial",
+              "type": "docs",
+              "url": "https://kubernetes.io/docs/tutorials/"
+            },
+            {
+              "title": "Kubernetes Crash Course for Absolute Beginners",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/watch?v=s_o8dwzRlu4"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Google Cloud Platform (GCP)",
+          "category": "DevOps & Cloud",
+          "priority": "Critical",
+          "status": "to_learn",
+          "estimatedHours": 24,
+          "difficulty": "Advanced",
+          "currentLevel": "None",
+          "targetLevel": "Advanced",
+          "whyImportant": "Required by job listing (Critical priority, mentioned 4x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Google Cloud Platform (GCP)",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Google Cloud Platform (GCP) into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Google Cloud Platform (GCP) Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Google%20Cloud%20Platform%20(GCP)%20official%20documentation"
+            },
+            {
+              "title": "Complete Google Cloud Platform (GCP) Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Google%20Cloud%20Platform%20(GCP)%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Terraform",
+          "category": "DevOps & Cloud",
+          "priority": "Critical",
+          "status": "to_learn",
+          "estimatedHours": 24,
+          "difficulty": "Advanced",
+          "currentLevel": "None",
+          "targetLevel": "Advanced",
+          "whyImportant": "Required by job listing (Critical priority, mentioned 3x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Terraform",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Terraform into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Terraform Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Terraform%20official%20documentation"
+            },
+            {
+              "title": "Complete Terraform Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Terraform%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Prometheus / Grafana",
+          "category": "DevOps & Cloud",
+          "priority": "Critical",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Critical priority, mentioned 4x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Prometheus / Grafana",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Prometheus / Grafana into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Prometheus / Grafana Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Prometheus%20%2F%20Grafana%20official%20documentation"
+            },
+            {
+              "title": "Complete Prometheus / Grafana Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Prometheus%20%2F%20Grafana%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Linux",
+          "category": "DevOps & Tools",
+          "priority": "Critical",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Critical priority, mentioned 3x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Linux",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Linux into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Linux Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Linux%20official%20documentation"
+            },
+            {
+              "title": "Complete Linux Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Linux%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Python",
+          "category": "Programming Languages",
+          "priority": "Critical",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Critical priority, mentioned 1x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Python",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Python into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Python Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Python%20official%20documentation"
+            },
+            {
+              "title": "Complete Python Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Python%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "CI/CD Pipelines",
+          "category": "DevOps & Cloud",
+          "priority": "Critical",
+          "status": "to_learn",
+          "estimatedHours": 10,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Critical priority, mentioned 4x)",
+          "actionSteps": [
+            "Understand CI/CD core concepts: automated build, test, and release",
+            "Write GitHub Actions workflows (.github/workflows/main.yml)",
+            "Implement automated linting, test suites, and Docker image builds",
+            "Configure automated zero-downtime deployment to staging & production"
+          ],
+          "resources": [
+            {
+              "title": "GitHub Actions Documentation",
+              "type": "docs",
+              "url": "https://docs.github.com/en/actions"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "AWS",
+          "category": "DevOps & Cloud",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 24,
+          "difficulty": "Advanced",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Understand core infrastructure: VPC, EC2, S3, RDS, IAM roles",
+            "Deploy serverless APIs using AWS Lambda and API Gateway",
+            "Configure CloudWatch alerts and monitoring",
+            "Automate deployment with AWS CDK or Terraform"
+          ],
+          "resources": [
+            {
+              "title": "AWS Skill Builder Free Learning Plans",
+              "type": "course",
+              "url": "https://explore.skillbuilder.aws/"
+            },
+            {
+              "title": "AWS Certified Cloud Practitioner & Solutions Architect Prep",
+              "type": "tutorial",
+              "url": "https://aws.amazon.com/certification/"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Agile / Scrum",
+          "category": "Methodology",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Agile / Scrum",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Agile / Scrum into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Agile / Scrum Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Agile%20%2F%20Scrum%20official%20documentation"
+            },
+            {
+              "title": "Complete Agile / Scrum Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Agile%20%2F%20Scrum%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Problem Solving",
+          "category": "Soft Skills",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 1x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Problem Solving",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Problem Solving into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Problem Solving Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Problem%20Solving%20official%20documentation"
+            },
+            {
+              "title": "Complete Problem Solving Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Problem%20Solving%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Docker",
+          "category": "DevOps & Cloud",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 14,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 1x)",
+          "actionSteps": [
+            "Understand images, containers, and layers",
+            "Write multi-stage Dockerfiles for Node.js / React apps",
+            "Master Docker Compose for multi-container microservices",
+            "Optimize image size and implement volume mounting for hot-reload"
+          ],
+          "resources": [
+            {
+              "title": "Docker Official Getting Started",
+              "type": "docs",
+              "url": "https://docs.docker.com/get-started/"
+            },
+            {
+              "title": "Docker Tutorial for Beginners (FreeCodeCamp)",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo"
+            },
+            {
+              "title": "Docker Deep Dive (Nigel Poulton)",
+              "type": "course",
+              "url": "https://nigelpoulton.com/books/"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Go",
+          "category": "Programming Languages",
+          "priority": "Medium",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Medium priority, mentioned 1x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Go",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Go into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Go Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Go%20official%20documentation"
+            },
+            {
+              "title": "Complete Go Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Go%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Nginx",
+          "category": "DevOps & Cloud",
+          "priority": "Medium",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Medium priority, mentioned 1x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Nginx",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Nginx into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Nginx Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Nginx%20official%20documentation"
+            },
+            {
+              "title": "Complete Nginx Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Nginx%20crash%20course"
+            }
+          ],
+          "notes": ""
+        }
+      ],
+      "totalSkills": 13,
+      "completedSkills": 0,
+      "progressPercentage": 0,
+      "totalEstimatedHours": 229,
+      "remainingHours": 229,
+      "createdAt": "2026-11-06T08:59:29.270Z",
+      "updatedAt": "2026-11-06T08:59:29.270Z"
+    },
+    {
+      "_id": "plan_1793774948996_57ugr4",
+      "analysisId": "local_1793774948992_kh9epw",
+      "title": "Senior Full Stack Engineer - Learning Roadmap",
+      "targetRole": "Senior Full Stack Engineer",
+      "studentName": "Alex Rivera",
+      "items": [
+        {
+          "skillName": "Node.js",
+          "category": "Backend",
+          "priority": "Critical",
+          "status": "completed",
+          "estimatedHours": 20,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Advanced",
+          "whyImportant": "Required by job listing (Critical priority, mentioned 4x)",
+          "actionSteps": [
+            "Understand the Event Loop, asynchronous non-blocking I/O, and Streams",
+            "Build robust REST APIs with Express or NestJS",
+            "Implement JWT authentication, rate limiting, and input validation",
+            "Connect with MongoDB / PostgreSQL using ORMs and connection pooling"
+          ],
+          "resources": [
+            {
+              "title": "Node.js Official Documentation",
+              "type": "docs",
+              "url": "https://nodejs.org/en/docs"
+            },
+            {
+              "title": "Node.js Full Course (freeCodeCamp)",
+              "type": "tutorial",
+              "url": "https://www.freecodecamp.org/news/free-nodejs-course-for-beginners/"
+            }
+          ],
+          "notes": "Completed official tutorial & built demo app",
+          "completedAt": "2026-11-04T06:49:09.004Z"
+        },
+        {
+          "skillName": "TypeScript",
+          "category": "Programming Languages",
+          "priority": "Critical",
+          "status": "to_learn",
+          "estimatedHours": 16,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Advanced",
+          "whyImportant": "Required by job listing (Critical priority, mentioned 3x)",
+          "actionSteps": [
+            "Learn basic types, interfaces, and type aliases",
+            "Master generics, utility types (Partial, Pick, Omit), and union types",
+            "Integrate TypeScript into Express and React apps with strict mode",
+            "Configure tsconfig for production-grade builds"
+          ],
+          "resources": [
+            {
+              "title": "TypeScript Official Handbook",
+              "type": "docs",
+              "url": "https://www.typescriptlang.org/docs/handbook/intro.html"
+            },
+            {
+              "title": "Total TypeScript Essentials by Matt Pocock",
+              "type": "tutorial",
+              "url": "https://www.totaltypescript.com/tutorials"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Docker",
+          "category": "DevOps & Cloud",
+          "priority": "Critical",
+          "status": "to_learn",
+          "estimatedHours": 14,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Critical priority, mentioned 3x)",
+          "actionSteps": [
+            "Understand images, containers, and layers",
+            "Write multi-stage Dockerfiles for Node.js / React apps",
+            "Master Docker Compose for multi-container microservices",
+            "Optimize image size and implement volume mounting for hot-reload"
+          ],
+          "resources": [
+            {
+              "title": "Docker Official Getting Started",
+              "type": "docs",
+              "url": "https://docs.docker.com/get-started/"
+            },
+            {
+              "title": "Docker Tutorial for Beginners (FreeCodeCamp)",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo"
+            },
+            {
+              "title": "Docker Deep Dive (Nigel Poulton)",
+              "type": "course",
+              "url": "https://nigelpoulton.com/books/"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "OAuth / JWT",
+          "category": "Security",
+          "priority": "Critical",
+          "status": "to_learn",
+          "estimatedHours": 8,
+          "difficulty": "Beginner",
+          "currentLevel": "None",
+          "targetLevel": "Beginner",
+          "whyImportant": "Required by job listing (Critical priority, mentioned 3x)",
+          "actionSteps": [
+            "Study core concepts and syntax of OAuth / JWT",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate OAuth / JWT into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "OAuth / JWT Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=OAuth%20%2F%20JWT%20official%20documentation"
+            },
+            {
+              "title": "Complete OAuth / JWT Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=OAuth%20%2F%20JWT%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "System Design",
+          "category": "Architecture",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 26,
+          "difficulty": "Advanced",
+          "currentLevel": "None",
+          "targetLevel": "Beginner",
+          "whyImportant": "Required by job listing (High priority, mentioned 1x)",
+          "actionSteps": [
+            "Master high-level architecture: Load Balancers, CDN, Caching, Sharding",
+            "Evaluate trade-offs with CAP Theorem and PACELC Theorem",
+            "Design real-world systems (URL Shortener, Chat System, Rate Limiter)",
+            "Calculate back-of-the-envelope capacity estimations"
+          ],
+          "resources": [
+            {
+              "title": "System Design Primer (GitHub)",
+              "type": "tutorial",
+              "url": "https://github.com/donnemartin/system-design-primer"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Next.js",
+          "category": "Frontend",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 24,
+          "difficulty": "Advanced",
+          "currentLevel": "None",
+          "targetLevel": "Advanced",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Next.js",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Next.js into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Next.js Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Next.js%20official%20documentation"
+            },
+            {
+              "title": "Complete Next.js Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Next.js%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "RESTful APIs",
+          "category": "Backend",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 24,
+          "difficulty": "Advanced",
+          "currentLevel": "None",
+          "targetLevel": "Advanced",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Study core concepts and syntax of RESTful APIs",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate RESTful APIs into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "RESTful APIs Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=RESTful%20APIs%20official%20documentation"
+            },
+            {
+              "title": "Complete RESTful APIs Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=RESTful%20APIs%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "AWS",
+          "category": "DevOps & Cloud",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 24,
+          "difficulty": "Advanced",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Understand core infrastructure: VPC, EC2, S3, RDS, IAM roles",
+            "Deploy serverless APIs using AWS Lambda and API Gateway",
+            "Configure CloudWatch alerts and monitoring",
+            "Automate deployment with AWS CDK or Terraform"
+          ],
+          "resources": [
+            {
+              "title": "AWS Skill Builder Free Learning Plans",
+              "type": "course",
+              "url": "https://explore.skillbuilder.aws/"
+            },
+            {
+              "title": "AWS Certified Cloud Practitioner & Solutions Architect Prep",
+              "type": "tutorial",
+              "url": "https://aws.amazon.com/certification/"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "PostgreSQL",
+          "category": "Database",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 18,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Write complex joins, subqueries, and window functions",
+            "Understand transactions (ACID), isolation levels, and row locking",
+            "Optimize slow queries using EXPLAIN ANALYZE and B-Tree / GIN indexes",
+            "Integrate with Prisma / Sequelize in backend microservices"
+          ],
+          "resources": [
+            {
+              "title": "PostgreSQL Tutorial",
+              "type": "docs",
+              "url": "https://www.postgresqltutorial.com/"
+            },
+            {
+              "title": "Use The Index, Luke (SQL Indexing Guide)",
+              "type": "tutorial",
+              "url": "https://use-the-index-luke.com/"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Express.js",
+          "category": "Backend",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Express.js",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Express.js into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Express.js Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Express.js%20official%20documentation"
+            },
+            {
+              "title": "Complete Express.js Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Express.js%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Apache Kafka",
+          "category": "Data & AI",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Apache Kafka",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Apache Kafka into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Apache Kafka Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Apache%20Kafka%20official%20documentation"
+            },
+            {
+              "title": "Complete Apache Kafka Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Apache%20Kafka%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Jest / Vitest",
+          "category": "Testing",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Jest / Vitest",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Jest / Vitest into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Jest / Vitest Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Jest%20%2F%20Vitest%20official%20documentation"
+            },
+            {
+              "title": "Complete Jest / Vitest Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Jest%20%2F%20Vitest%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Cypress / Playwright",
+          "category": "Testing",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Cypress / Playwright",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Cypress / Playwright into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Cypress / Playwright Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Cypress%20%2F%20Playwright%20official%20documentation"
+            },
+            {
+              "title": "Complete Cypress / Playwright Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Cypress%20%2F%20Playwright%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Agile / Scrum",
+          "category": "Methodology",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Agile / Scrum",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Agile / Scrum into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Agile / Scrum Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Agile%20%2F%20Scrum%20official%20documentation"
+            },
+            {
+              "title": "Complete Agile / Scrum Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Agile%20%2F%20Scrum%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Problem Solving",
+          "category": "Soft Skills",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 1x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Problem Solving",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Problem Solving into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Problem Solving Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Problem%20Solving%20official%20documentation"
+            },
+            {
+              "title": "Complete Problem Solving Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Problem%20Solving%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Team Collaboration",
+          "category": "Soft Skills",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 1x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Team Collaboration",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Team Collaboration into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Team Collaboration Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Team%20Collaboration%20official%20documentation"
+            },
+            {
+              "title": "Complete Team Collaboration Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Team%20Collaboration%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "MongoDB",
+          "category": "Database",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 12,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Understand document schema design and normalization vs denormalization",
+            "Master aggregation pipelines ($match, $group, $lookup, $project)",
+            "Create compound indexes and analyze query execution with explain()",
+            "Set up MongoDB Atlas and implement Mongoose validation schemas"
+          ],
+          "resources": [
+            {
+              "title": "MongoDB University Free Courses",
+              "type": "course",
+              "url": "https://learn.mongodb.com/"
+            },
+            {
+              "title": "Mongoose Documentation",
+              "type": "docs",
+              "url": "https://mongoosejs.com/docs/"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Web Security (OWASP)",
+          "category": "Security",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 8,
+          "difficulty": "Beginner",
+          "currentLevel": "None",
+          "targetLevel": "Beginner",
+          "whyImportant": "Required by job listing (High priority, mentioned 2x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Web Security (OWASP)",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Web Security (OWASP) into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Web Security (OWASP) Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Web%20Security%20(OWASP)%20official%20documentation"
+            },
+            {
+              "title": "Complete Web Security (OWASP) Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Web%20Security%20(OWASP)%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "React",
+          "category": "Frontend",
+          "priority": "High",
+          "status": "to_learn",
+          "estimatedHours": 7,
+          "difficulty": "Advanced",
+          "currentLevel": "Intermediate",
+          "targetLevel": "Advanced",
+          "whyImportant": "Upskill needed: currently at Intermediate, job demands Advanced",
+          "actionSteps": [
+            "Review advanced concepts and internal workings of React",
+            "Refactor existing code to use best practices, design patterns, and performance optimizations",
+            "Practice building end-to-end features testing Advanced capabilities"
+          ],
+          "resources": [
+            {
+              "title": "Advanced React Masterclass",
+              "type": "course",
+              "url": "https://www.google.com/search?q=advanced%20React%20best%20practices"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Kubernetes",
+          "category": "DevOps & Cloud",
+          "priority": "Medium",
+          "status": "to_learn",
+          "estimatedHours": 28,
+          "difficulty": "Advanced",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Medium priority, mentioned 1x)",
+          "actionSteps": [
+            "Understand Pods, Deployments, Services, and Ingress",
+            "Set up local cluster using Minikube or Kind",
+            "Manage ConfigMaps, Secrets, and Persistent Volumes",
+            "Deploy a resilient microservice architecture with Helm charts"
+          ],
+          "resources": [
+            {
+              "title": "Kubernetes Official Interactive Tutorial",
+              "type": "docs",
+              "url": "https://kubernetes.io/docs/tutorials/"
+            },
+            {
+              "title": "Kubernetes Crash Course for Absolute Beginners",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/watch?v=s_o8dwzRlu4"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Microservices",
+          "category": "Architecture",
+          "priority": "Medium",
+          "status": "to_learn",
+          "estimatedHours": 22,
+          "difficulty": "Advanced",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Medium priority, mentioned 1x)",
+          "actionSteps": [
+            "Design domain boundaries using Domain-Driven Design (DDD)",
+            "Implement inter-service communication (REST, gRPC, and Message Queues)",
+            "Manage distributed transactions with the Saga pattern",
+            "Implement centralized logging, distributed tracing, and service mesh"
+          ],
+          "resources": [
+            {
+              "title": "Microservices Architecture Patterns (Martin Fowler)",
+              "type": "docs",
+              "url": "https://martinfowler.com/articles/microservices.html"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Unit Testing",
+          "category": "Testing",
+          "priority": "Medium",
+          "status": "to_learn",
+          "estimatedHours": 15,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Medium priority, mentioned 1x)",
+          "actionSteps": [
+            "Study core concepts and syntax of Unit Testing",
+            "Follow official quickstart and build a working demo application",
+            "Solve common real-world use cases and practice troubleshooting",
+            "Integrate Unit Testing into your portfolio or target project"
+          ],
+          "resources": [
+            {
+              "title": "Unit Testing Official Documentation & Guides",
+              "type": "docs",
+              "url": "https://www.google.com/search?q=Unit%20Testing%20official%20documentation"
+            },
+            {
+              "title": "Complete Unit Testing Crash Course",
+              "type": "tutorial",
+              "url": "https://www.youtube.com/results?search_query=Unit%20Testing%20crash%20course"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "CI/CD Pipelines",
+          "category": "DevOps & Cloud",
+          "priority": "Medium",
+          "status": "to_learn",
+          "estimatedHours": 10,
+          "difficulty": "Intermediate",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Medium priority, mentioned 1x)",
+          "actionSteps": [
+            "Understand CI/CD core concepts: automated build, test, and release",
+            "Write GitHub Actions workflows (.github/workflows/main.yml)",
+            "Implement automated linting, test suites, and Docker image builds",
+            "Configure automated zero-downtime deployment to staging & production"
+          ],
+          "resources": [
+            {
+              "title": "GitHub Actions Documentation",
+              "type": "docs",
+              "url": "https://docs.github.com/en/actions"
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "skillName": "Redis",
+          "category": "Database",
+          "priority": "Medium",
+          "status": "to_learn",
+          "estimatedHours": 8,
+          "difficulty": "Beginner",
+          "currentLevel": "None",
+          "targetLevel": "Intermediate",
+          "whyImportant": "Required by job listing (Medium priority, mentioned 1x)",
+          "actionSteps": [
+            "Understand in-memory caching patterns (Cache-Aside, Write-Through)",
+            "Use Redis data structures: Strings, Hashes, Lists, Sets, Sorted Sets",
+            "Implement API rate limiting and session storage",
+            "Configure TTL (Time to Live) and eviction policies"
+          ],
+          "resources": [
+            {
+              "title": "Redis University Free Courses",
+              "type": "course",
+              "url": "https://university.redis.io/"
+            }
+          ],
+          "notes": ""
+        }
+      ],
+      "totalSkills": 24,
+      "completedSkills": 1,
+      "progressPercentage": 4,
+      "totalEstimatedHours": 389,
+      "remainingHours": 369,
+      "createdAt": "2026-11-04T06:49:08.996Z",
+      "updatedAt": "2026-11-04T06:49:09.004Z"
+    }
+  ]
+}

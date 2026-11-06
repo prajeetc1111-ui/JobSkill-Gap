@@ -1,0 +1,29 @@
+{
+  "name": "jobskill-gap",
+  "version": "1.0.0",
+  "description": "JobSkill Gap – Job Description Skill Mapper (React + Vite + Express + MongoDB)",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -n \"BACKEND,FRONTEND\" -c \"magenta.bold,cyan.bold\" \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "install:all": "npm install && npm --prefix backend install && npm --prefix frontend install --legacy-peer-deps",
+    "build:frontend": "npm --prefix frontend run build",
+    "build": "npm run build:frontend",
+    "start": "node backend/src/index.js",
+    "test:e2e": "node test-e2e.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "keywords": [
+    "jobskill-gap",
+    "skill-mapper",
+    "fullstack",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+}
